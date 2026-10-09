@@ -241,5 +241,4 @@ Frontend
 - Apache PDFBox for PDF text extraction.
 - Google Gson for JSON processing.
 
-## License
 
